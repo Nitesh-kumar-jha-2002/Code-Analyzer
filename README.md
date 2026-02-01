@@ -1,25 +1,25 @@
 # 🧠 Code Analyzer
 
-**Code Analyzer** is a MERN-stack based code analysis platform that provides **real-time debugging, suggestions, and error detection** using the **Gemini API**, helping developers write better code faster.
+**Code Analyzer** is a MERN-stack powered platform that provides **real-time code analysis, debugging insights, and intelligent suggestions** using the **Gemini API** — helping developers write better code faster.
 
 ---
 
 ## ✨ Features
 
-### ✅ Real-Time Code Analysis
-Analyze code instantly with live debugging feedback and intelligent suggestions.
+### ✅ Real-Time Code Feedback  
+Instant analysis of submitted code with live, actionable suggestions and error breakdowns.
 
-### ✅ AI-Powered Error Detection
-Detects and explains **10+ coding errors per session** using advanced logic powered by the **Gemini API**.
+### ✅ AI-Powered Error Detection  
+Detects and corrects **10+ coding errors per session** using the **Gemini API**.
 
-### ✅ Multi-Language Support
-Supports **5+ programming languages**, enabling flexible and cross-language code evaluation.
+### ✅ Multi-Language Support  
+Supports **5+ programming languages** for flexible analysis across tech stacks.
 
-### ✅ Scalable Backend APIs
-Built scalable APIs using **Node.js**, improving response times by up to **40%**.
+### ✅ Scalable Backend APIs  
+Designed and optimized APIs with **Node.js**, improving response times by up to **40%**.
 
-### ✅ Adaptive Frontend Interface
-Responsive **React.js UI** capable of handling **100+ code submissions** with real-time updates.
+### ✅ Adaptive UI for Submissions  
+Responsive **React.js frontend** that handles **100+ code submissions** with seamless real-time updates.
 
 ---
 
@@ -42,21 +42,16 @@ Responsive **React.js UI** capable of handling **100+ code submissions** with re
 
 ## 🧑‍💻 How It Works
 
-When a user submits code:
-
-- The frontend sends the code to backend APIs
-- Backend processes the request and forwards it to the **Gemini API**
-- The AI analyzes the code and returns:
-  - Errors
-  - Optimization suggestions
-  - Debugging insights
-- Results are displayed instantly on the UI with real-time feedback
+1. User submits code through the frontend interface  
+2. The backend forwards code to the **Gemini API** for analysis  
+3. AI returns detected errors, suggestions, and insights  
+4. Results are rendered live in the UI
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/code-analyzer.git
-cd code-analyzer
+git clone https://github.com/Nitesh-kumar-jha-2002/Code-Analyzer.git
+cd Code-Analyzer
